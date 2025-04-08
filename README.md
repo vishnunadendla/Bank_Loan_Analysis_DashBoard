@@ -1,5 +1,9 @@
 # Loan Analysis Dashboard
 
+![DashBoard1](Bank_sheet1.jpg)
+![DashBoard2](Bank_sheet2.jpg)
+![DashBoard3](Bank_sheet3.jpg)
+
 This project focuses on the development of a comprehensive Power BI dashboard aimed at analyzing and monitoring key loan performance metrics. The dashboard provides essential insights into loan applications, funded amounts, repayments, interest rates, and borrower financial health. It is designed for financial institutions to optimize decision-making and improve operational efficiency.
 
 ## Key Features
@@ -67,6 +71,3 @@ This grid view allows users to monitor the performance of loans, identify trends
 2. **Apply Filters**: Use slicers to filter data based on loan type, year, and customer demographics.
 3. **Monitor KPIs**: View the key performance metrics, such as the total number of applications, funded amount, received payments, average interest rate, and average DTI.
 
-![DashBoard1](Bank_sheet1.jpg)
-![DashBoard2](Bank_sheet2.jpg)
-![DashBoard3](Bank_sheet3.jpg)
